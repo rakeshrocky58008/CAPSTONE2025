@@ -23,4 +23,3 @@ python src/main.py
 Original development and experiments are in `notebooks/`.
 
 ---
-Built with ❤️ by Rajesh B R
